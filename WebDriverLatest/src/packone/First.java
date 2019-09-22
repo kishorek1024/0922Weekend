@@ -20,10 +20,7 @@ public class First {
 		driver1.get("http://rediff.com");
 		driver1.manage().window().maximize();*/
 		
-		System.setProperty("webdriver.ie.driver", "C:\\Users\\DELL\\Desktop\\WD99\\Jars\\IEDriverServer.exe");
-		WebDriver driver2=new InternetExplorerDriver();
-		driver2.get("http://gmail.com");
-		driver2.manage().window().maximize();
+		// Updating code
 		
 
 	}
